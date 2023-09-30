@@ -11,6 +11,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## This is a test for in-class purpose. It 
+
 ## R Markdown
 
 Inline calculation: `r 1022 + 233`
